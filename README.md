@@ -1,4 +1,4 @@
-# API Matemática
+# API
 
 API RESTful para realizar operações matemáticas de soma e média aritmética de um vetor de inteiros.
 
